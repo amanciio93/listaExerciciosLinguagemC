@@ -1,8 +1,6 @@
 # Lista de Exercícios em Linguagem C - André Backes
-
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Status](https://img.shields.io/badge/status-In%20Progress-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Este repositório contém minhas soluções para as listas de exercícios de Linguagem C disponibilizadas pelo professor André Backes, da Faculdade de Computação da Universidade Federal de Uberlândia (UFU). As listas abrangem desde conceitos básicos da linguagem até tópicos mais avançados, como ponteiros, alocação dinâmica e manipulação de arquivos.
 
@@ -17,17 +15,17 @@ Desenvolver habilidades de resolução de problemas;
 Construir um histórico de estudos e progresso.
 
 ## Estrutura do Repositório:
-LISTA 01 - VARIÁVEIS E EXPRESSÕES
-LISTA 02 - COMANDOS CONDICIONAIS
-LISTA 03 - COMANDOS DE REPETIÇÃO
-LISTA 04 - VETORES E MATRIZES
-LISTA 05 - STRINGS
-LISTA 06 - STRUCTS
-LISTA 07 - FUNÇÕES
-LISTA 08 - RECURSÃO
-LISTA 09 - PONTEIROS
-LISTA 10 - ALOCAÇÃO DINÂMICA
-LISTA 11 - ARQUIVOS
+LISTA 01 - VARIÁVEIS E EXPRESSÕES<br>
+LISTA 02 - COMANDOS CONDICIONAIS<br>
+LISTA 03 - COMANDOS DE REPETIÇÃO<br>
+LISTA 04 - VETORES E MATRIZES<br>
+LISTA 05 - STRINGS<br>
+LISTA 06 - STRUCTS<br>
+LISTA 07 - FUNÇÕES<br>
+LISTA 08 - RECURSÃO<br>
+LISTA 09 - PONTEIROS<br>
+LISTA 10 - ALOCAÇÃO DINÂMICA<br>
+LISTA 11 - ARQUIVOS<br>
 
 ### Cada diretório contém as resoluções dos exercícios correspondentes ao respectivo assunto.
 Conteúdos Abordados
