@@ -14,7 +14,7 @@ Aprender boas práticas de programação;
 Desenvolver habilidades de resolução de problemas;
 Construir um histórico de estudos e progresso.
 
-## Estrutura do Repositório:
+### Estrutura do Repositório:
 LISTA 01 - VARIÁVEIS E EXPRESSÕES<br>
 LISTA 02 - COMANDOS CONDICIONAIS<br>
 LISTA 03 - COMANDOS DE REPETIÇÃO<br>
@@ -28,31 +28,32 @@ LISTA 10 - ALOCAÇÃO DINÂMICA<br>
 LISTA 11 - ARQUIVOS<br>
 
 ### Cada diretório contém as resoluções dos exercícios correspondentes ao respectivo assunto.
-Conteúdos Abordados
-Variáveis e expressões
-Estruturas condicionais
-Estruturas de repetição
-Vetores e matrizes
-Strings
-Structs
-Funções
-Recursão
-Ponteiros
-Alocação dinâmica de memória
-Manipulação de arquivos
+Conteúdos Abordados<br>
+Variáveis e expressões<br>
+Estruturas condicionais<br>
+Estruturas de repetição<br>
+Vetores e matrizes<br>
+Strings<br>
+Structs<br>
+Funções<br>
+Recursão<br>
+Ponteiros<br>
+Alocação dinâmica de memória<br>
+Manipulação de arquivos<br>
 
 Esses tópicos seguem a sequência das listas disponibilizadas pelo professor André Backes em seu material de apoio para a disciplina de Introdução à Programação.
 
-Tecnologias Utilizadas
-Linguagem C
-GCC
-Code::Blocks (quando aplicável)
-Referências
+### Tecnologias Utilizadas: <br>
+Linguagem C<br>
+GCC<br>
+Code::Blocks (quando aplicável)<br>
+
+### Referências:
 Site do Professor André Backes
 Listas de Exercícios de Linguagem C
 Livro: Linguagem C: Completa e Descomplicada – André Backes
-Aviso
 
+## AVISO: 
 Estas soluções foram desenvolvidas para fins de estudo e prática. Algumas implementações podem ser aprimoradas ao longo do tempo conforme novos conhecimentos forem adquiridos.
-
+________________________________________________________________________________________
 ⭐ Caso este repositório seja útil para você, considere deixar uma estrela.
