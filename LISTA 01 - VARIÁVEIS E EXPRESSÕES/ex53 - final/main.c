@@ -13,13 +13,12 @@
 
 int main()
 {
-    int comprimento, largura;
-    float perimetro, precoTela, custoTotal;
+    float comprimento, largura, perimetro, precoTela, custoTotal;
 
     printf("Informe o comprimento do terreno: ");
-    scanf("%d", &comprimento);
+    scanf("%f", &comprimento);
     printf("Informe a largura do terreno: ");
-    scanf("%d", &largura);
+    scanf("%f", &largura);
     printf("Informe o preco da tela: ");
     scanf("%f", &precoTela);
 
