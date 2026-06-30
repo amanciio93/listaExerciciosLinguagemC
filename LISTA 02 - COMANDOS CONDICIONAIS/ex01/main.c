@@ -1,6 +1,6 @@
 /*
      * Arquivo   : main.c
-     * Autor     : Jonathan Amancio
+     * Autor     : Jonathan Amancio Vieira Coelho da Silva
      * Data      : 30/06/2026 - 16:15
      * Descrição : 1. Faça um programa que receba dois números e mostre qual deles é o maior.
 */
