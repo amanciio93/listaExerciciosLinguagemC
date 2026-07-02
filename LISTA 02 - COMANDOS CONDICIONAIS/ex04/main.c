@@ -1,7 +1,7 @@
 /*
      * Arquivo   : main.c
      * Autor     : Jonathan Amancio Vieira Coelho da Silva
-     * Data      : 02/07/2026 - 18:30
+     * Data      : 02/07/2026 - 18:40
      * Descrição : 4. Faça um programa que leia um número e, caso ele seja positivo, calcule e mostre:
                         • O número digitado ao quadrado
                         • A raiz quadrada do número digitado
