@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1783221480 source:/home/amancio/LABS/listaExerciciosLinguagemC/LISTA 02 - COMANDOS CONDICIONAIS/ex12/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
