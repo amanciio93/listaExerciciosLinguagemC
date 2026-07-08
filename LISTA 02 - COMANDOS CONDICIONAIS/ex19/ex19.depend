@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1783548865 source:c:\users\amanc\onedrive\documentos\labs\listaexercicioslinguagemc\lista 02 - comandos condicionais\ex19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
